@@ -15,9 +15,9 @@ Society 5.0 は次のように定義されています。
 
 ## 映像資料
 
-日本経済団体連合会（経団連）が公開している映像を見て、Society 5.0 が実現された社会の様子を具体的にイメージしてみましょう。
+文部科学省が公開している映像を見て、Society 5.0 が実現された社会の様子を具体的にイメージしてみましょう。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xQnnAih8KIo?si=WM8mYsC0Sni5WXCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NpK08gtYihw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## ディスカッション
 
